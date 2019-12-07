@@ -15,10 +15,9 @@ Benefits:
  - Cost: No traffic, No cost
  - Productivity: higher abstraction
 
+add "bedrock" of observability
+monitoring: goal is "single pane of glass" that has everything you need. not really acheivable but a guideline
+(they are selling New Relic here)
 
-monitoring: goal is "single pane of glass" that has everything you need
-
-
-How Fleet Complete acheives its double bottoms line
-
-Human migration to 
+New relic can plug into all these managed AWS services including sqs queues, lambdas, and containers
+*** looks way nicer than AWS console - is anyone at SX using this?
