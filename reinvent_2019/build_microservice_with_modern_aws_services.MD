@@ -1,4 +1,4 @@
-ENT308-S - Build your next microservices application with modern AWS services
+### ENT308-S - Build your next microservices application with modern AWS services
 
 when you are building a service, start with a "why?"
   - do you need super scalability?
